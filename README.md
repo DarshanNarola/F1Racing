@@ -115,7 +115,7 @@ This dashboard highlights individual driver performance, including metrics such 
 
 ## Team Dashboard
 
-![Team Dashboard](F1Racing/Teams_Dashboard.jpg)
+![Team Dashboard]([F1Racing/Teams_Dashboard.jpg](https://github.com/DarshanNarola/F1Racing/blob/fd6f9df2ec6cc176c1115e515b4f08f33720fdbf/Teams_Dashboard.jpg))
 
 The Team Dashboard focuses on team-level performance, showcasing comparisons between teams, strategy analyses, and overall standings.
 
