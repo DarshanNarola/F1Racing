@@ -107,7 +107,7 @@ This repository contains dashboards that provide insightful visualizations for F
 
 ## Drivers Dashboard
 
-![Drivers Dashboard](F1Racing/Drivers_Dashboard.jpg)
+![Drivers Dashboard](https://github.com/DarshanNarola/F1Racing/blob/62aac3a1a9f9fc9cfc7732b5ba5421813195f15d/Drivers_Dashboard.jpg)
 
 This dashboard highlights individual driver performance, including metrics such as lap times, race positions, and season progress.
 
@@ -115,7 +115,7 @@ This dashboard highlights individual driver performance, including metrics such 
 
 ## Team Dashboard
 
-![Team Dashboard]([F1Racing/Teams_Dashboard.jpg](https://github.com/DarshanNarola/F1Racing/blob/fd6f9df2ec6cc176c1115e515b4f08f33720fdbf/Teams_Dashboard.jpg))
+![Team Dashboard](https://github.com/DarshanNarola/F1Racing/blob/fd6f9df2ec6cc176c1115e515b4f08f33720fdbf/Teams_Dashboard.jpg)
 
 The Team Dashboard focuses on team-level performance, showcasing comparisons between teams, strategy analyses, and overall standings.
 
